@@ -1,0 +1,43 @@
+header {
+  padding: 1px;
+  text-align: center;
+  background:  #f56a79;
+  color: white;
+  font-size: 30px;
+}
+
+body {
+  margin: 0;
+  background-color: #d9ecf2;
+}
+
+footer {
+  padding: 1px;
+  text-align: center;
+  background:  #1aa6b7;
+  color: white;
+  font-size: 30px;
+}
+
+
+img {
+  border: 3px solid #f56a79;
+}
+
+hr {
+  border-style: none;
+  background-color: #ff414d;
+  height: 2px;
+}
+
+h1 {
+  color: #ff414d;
+}
+
+h3 {
+  color: #ff414d;
+}
+
+h6 {
+  color: white;
+}
